@@ -1,5 +1,5 @@
 
-  # Criar slides com paleta de cores
+  # Criar slides com paleta de cores 
 
   This is a code bundle for Criar slides com paleta de cores. The original project is available at https://www.figma.com/design/tkJSDomvQdKDiXvUtSuXla/Criar-slides-com-paleta-de-cores.
 
